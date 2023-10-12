@@ -108,21 +108,44 @@ np.mean(predict(res.x,X)==y)
 ```
 
 ## Output:
+
+## Array value of X:
+
 ![image](https://github.com/Kishore2o/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118679883/653e47bc-6072-461d-9e0b-bc342a147e87)
+
+## Array value of Y:
+
+![image](https://github.com/Kishore2o/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118679883/a31062f2-0cca-4f1f-82ec-11a81067cbe5)
+
+## Exam 1-Score graph:
 
 ![image](https://github.com/Kishore2o/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118679883/aea94908-e62f-4f89-b507-fa133e023c4c)
 
+## Sigmoid function graph:
+
 ![image](https://github.com/Kishore2o/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118679883/f48866eb-d81c-4284-a3b7-4b0f01d3f022)
+
+## X_Train_grad value:
 
 ![image](https://github.com/Kishore2o/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118679883/6a4458a2-6acf-4277-9b73-3e18821bfa38)
 
+## Y_Train_grad value:
+
 ![image](https://github.com/Kishore2o/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118679883/8e3192cd-a92c-4a76-84e9-86d9f387c0d3)
+
+## Print res.X:
 
 ![image](https://github.com/Kishore2o/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118679883/6fba9fab-88b4-4ecd-ae98-13fb1879d343)
 
+## Decision boundary-gragh for exam score:
+
 ![image](https://github.com/Kishore2o/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118679883/dd5d9aae-d641-497b-93ae-9c33aadd8cec)
 
+## Probability value:
+
 ![image](https://github.com/Kishore2o/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118679883/a8e7deb7-a9d6-40b1-9b13-e7ee32978d9b)
+
+## Prediction value of mean:
 
 ![image](https://github.com/Kishore2o/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118679883/15b1668e-ef9c-4cb5-b2a2-a6bae2cbac4d)
 
